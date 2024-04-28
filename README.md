@@ -1,0 +1,1 @@
+# uw-course-availability-checker
